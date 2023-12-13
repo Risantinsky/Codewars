@@ -1,5 +1,3 @@
-Template
-
 ## Table of contents
 1) Announced
 2) Used technology
